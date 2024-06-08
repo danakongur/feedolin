@@ -10,7 +10,8 @@
         </outline>
         <outline text="Forum" title="Forum">
             <outline type="rss" text="KaiOs Reddit" title="KaiOs Reddit" xmlUrl="https://www.reddit.com/r/KaiOS/.rss" htmlUrl=""/>
-            <outline type="rss" text="getKirby Forum" title="getKirby Forum" xmlUrl="https://forum.getkirby.com/latest.rss" htmlUrl=""/>
+			<outline type="rss" text="getKirby Forum" title="getKirby Forum" xmlUrl="https://forum.getkirby.com/latest.rss" htmlUrl=""/>
+			<outline type="rss" text="ruv" title="ruv" xmlUrl="https://www.ruv.is/rss/frettir" htmlUrl=""/>
         </outline>
 
         <outline text="Blog" title="Blog">
