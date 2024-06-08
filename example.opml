@@ -39,17 +39,15 @@
             <outline type="mastodon" text="mastodon.social" title="mastodon.social" xmlUrl="https://mastodon.social/api/v1/timelines/public" htmlUrl=""/>
         </outline>
 
-
-        <outline text="Coding" title="Coding">
-            <outline type="rss" text="bHackers Blog" title="bHackers Blog" xmlUrl="https://blog.bananahackers.net/read/feed/" htmlUrl=""/>
-            <outline type="rss" text="kaios.dev" title="kaios.dev" xmlUrl="https://kaios.dev/index.xml" htmlUrl=""/>
-            <outline type="rss" text="chickenkiller" title="chickenkiller" xmlUrl="https://far.chickenkiller.com/index.xml" htmlUrl=""/>
-
-            
+        <outline text="Weather" title="Weather">
+            <outline type="rss" text="vedurspa" title="vedurspa" xmlUrl="http://xmlweather.vedur.is/?op_w=xml&type=forec&lang=is&view=rss&ids=1" htmlUrl=""/>
+            <outline type="rss" text="textaspa" title="textaspa" xmlUrl="http://xmlweather.vedur.is/?op_w=xml&type=txt&lang=is&view=rss&ids=2;3;5;6;32" htmlUrl=""/>
         </outline>
 
         <outline text="News" title="News">
-            <outline type="rss" text="t-online" title="t-online" xmlUrl="https://feeds.t-online.de/rss/ausland" htmlUrl=""/>
+            <outline type="rss" text="ruv" title="ruv" xmlUrl="https://www.ruv.is/rss/frettir" htmlUrl=""/>
+            <outline type="rss" text="visir" title="visir" xmlUrl="https://www.visir.is/rss/allt" htmlUrl=""/>
+            <outline type="rss" text="visir" title="visir" xmlUrl="https://www.visir.is/rss/allt" htmlUrl=""/>
         </outline>
 
 
